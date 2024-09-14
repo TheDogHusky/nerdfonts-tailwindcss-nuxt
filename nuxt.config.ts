@@ -7,3 +7,5 @@ export default defineNuxtConfig({
     baseURL: '/nerdfonts-tailwindcss-nuxt/',
   }
 })
+
+// trying out deployment
