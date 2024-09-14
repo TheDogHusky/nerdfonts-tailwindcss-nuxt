@@ -4,6 +4,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/tailwindcss'],
   app: {
-    baseURL: '/nuxt-tailwind-nerdfonts/',
+    baseURL: '/nerdfonts-tailwindcss-nuxt/',
   }
 })
